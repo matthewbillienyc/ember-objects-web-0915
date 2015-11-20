@@ -1,4 +1,6 @@
 import Ember from 'ember';
 
-export default Ember.Object.extend({
+var Conference = Ember.Object.extend({
 });
+
+export default Conference;
